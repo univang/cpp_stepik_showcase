@@ -6,5 +6,5 @@ In addition to language basics there are given some advanced topics and assignme
 - Array Class for any value type (feat. class templates, placement new)
 - Smart Pointer Classes — simplified version of std::shared_ptr (feat. virtual methods, Visitor pattern, Singleton pattern)
 - Any container — simplified version of boost::any (feat. dynamic_cast)
-- Template specializations, function and operator overridings, virtual classes and methods
+- Template specializations, function and operator overridings
 - Operator [][] overriding (feat. Proxy pattern)
